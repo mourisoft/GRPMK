@@ -21,6 +21,8 @@ public class Partagemk {
         
         System.out.println("Hello Mouris");
         System.out.println("Hello Ashek");
+        
+        System.out.println("comment ca va Mouris ");
     }
     
 }
